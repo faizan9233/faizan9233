@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br>💬 Ask me about MERN, Unity Game development<br>📫 How to reach me fshakeel9233@gmail.com
+🌱 I’m currently Working as a Full Stack Web Developer<br>💬 Ask me about MERN, Full Stack, Unity Game development<br>📫 How to reach me fshakeel9233@gmail.com
 
 
 ## 🌐 Socials:
