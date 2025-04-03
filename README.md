@@ -1,4 +1,9 @@
-# 💫 About Me:
+  # 💫 About Me:
+  <h1> Software Engineer 🖥️ 
+  <a href="https://hits.sh/github.com/faizan9233/">
+    <img src="https://komarev.com/ghpvc/?username=faizan9233&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Faizan Shakeel" />
+  </a>
+</h1>
 🌱 I’m currently Working as a Full Stack Web Developer<br>💬 Ask me about MERN, Full Stack, Unity Game development<br>📫 How to reach me fshakeel9233@gmail.com
 
 
@@ -10,6 +15,16 @@
 
 <h2><i>⚙️ Github Analytics</i></h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faizan9232" alt="GitHub Streak" /></a>
+<p align="center">
+<a href="https://github.com/faizan9233">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizan9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizan9233&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9233&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=faizan9233&icon=6&color=0)](https://visitcount.itsvg.in)
