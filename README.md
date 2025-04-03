@@ -10,16 +10,7 @@
 
 <h2><i>⚙️ Github Analytics</i></h2>
 
-<p align="center">
-<a href="https://github.com/faizan9233">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizan9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizan9233&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
-</p>
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9233&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizan9233" alt="GitHub Streak" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faizan9233&icon=6&color=0)](https://visitcount.itsvg.in)
