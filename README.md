@@ -10,6 +10,6 @@
 
 <h2><i>⚙️ Github Analytics</i></h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faizan9233)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faizan9232" alt="GitHub Streak" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=faizan9233&icon=6&color=0)](https://visitcount.itsvg.in)
