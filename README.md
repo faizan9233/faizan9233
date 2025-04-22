@@ -22,9 +22,9 @@
 </a>
 
 </p>
-<p align="center">
+<!-- <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan9233&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
+</p> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faizan9233&icon=6&color=0)](https://visitcount.itsvg.in)
